@@ -29,11 +29,27 @@ body {
   font-family: 'Fascinate', cursive;
 }
 
-h2 {
-  font-family: 'Fascinate', cursive
+h3 {
+  font-family: 'Fascinate', cursive;
+  background-color: #ffdab9;
+  margin-bottom: 0;
 }
 
-.row {
+p{
+  background-color: #ffdab9;
+  font-family: 'Tajawal', sans-serif;
+
+}
+/*.row {
   background-color: #ffdab9;
   margin-bottom: 20px; 
+  border: solid black 1px;
+}*/
+
+#linko {
+  color: black;
+
 }
+
+
+

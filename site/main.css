@@ -1,4 +1,4 @@
-*avbar-brand{
+.navbar-brand{
   font-size: 1.8em;
   border: solid black 1px;
   padding: 10px 10px 10px 10px;
@@ -54,5 +54,6 @@ p{
   color: black;
 
 }
+
 
 

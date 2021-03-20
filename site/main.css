@@ -1,4 +1,4 @@
-.navbar-brand{
+*avbar-brand{
   font-size: 1.8em;
   border: solid black 1px;
   padding: 10px 10px 10px 10px;
@@ -15,9 +15,13 @@
    padding:  2px 2px 2px 2px;
 }
 
+
+
 a {
   margin-right: 10px;
   font-family: 'Fascinate', cursive;
+  text-align: center;
+
 }
 
 body {
@@ -50,6 +54,5 @@ p{
   color: black;
 
 }
-
 
 
